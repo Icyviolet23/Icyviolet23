@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Tze Hng	👋</h1>
-<h3 align="center">Do take a look at the interesting past projects that I have done!</h3>
+<h3 align="center">Do take a look at my interesting past projects!</h3>
 
 ## About Me
 
