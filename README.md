@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi! I'm Tze Hng, currently an Electrical and Computer Engineering Undergraduate @ Carnegie Mellon University. I am passionate about technology and finance and I enjoy building cool applications!
+Hi! I'm Tze Hng, currently a Computer Science Undergraduate @ Carnegie Mellon University. I am passionate about technology and finance and I enjoy building cool applications!
 	
 - 🌱 I’m currently learning **React, Typescript, Data Structures and Algorithms**
 - 🔭 I’m currently working on an **Automated Testing Framework for Android Applications using Espresso**
