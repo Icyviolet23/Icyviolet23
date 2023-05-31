@@ -6,7 +6,7 @@
 Hi! I'm Tze Hng, currently a Computer Science Undergraduate @ Carnegie Mellon University. I am passionate about technology and finance and I enjoy building cool applications!
 	
 - 🌱 I’m currently learning **React Native and Typescript**
-- 🔭 I’m currently working on as a **Software Development Engineering @ Amazon**
+- 🔭 I’m currently working as a **Software Development Engineering @ Amazon**
 - 💬 Ask me about **looking for food in Singapore** and **life studying abroad in the US**
 
 
