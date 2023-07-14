@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi! I'm Tze Hng, currently a Computer Science Undergraduate @ Carnegie Mellon University interning at Amazon working on Front-End products! I am passionate about technology and quantitative finance and I enjoy building cool applications!
+Hi! I'm Tze Hng, currently a Computer Science undergraduate @ Carnegie Mellon University interning at Amazon working on Front-End products! I am passionate about technology and quantitative finance and I enjoy building cool applications!
 	
 - 🌱 I’m currently learning **React Native and Typescript**
 - 🔭 I’m currently working as a **Software Development Engineering Intern @ Amazon**
