@@ -5,7 +5,7 @@
 
 Hi! I'm Tze Hng, currently a Computer Science undergraduate @ Carnegie Mellon University and I interned at Amazon working on FireTV's front-end over the summer! I am passionate about technology and quantitative finance and I enjoy building cool applications!
 	
-- 🌱 I’m currently learning **System Design & C++**
+- 🌱 I’m currently learning **C++, Distributed Systems, Machine Learning**
 - 🔭 I’m currently working as a **Junior @ CMU**
 - 💬 Ask me about **looking for food in Singapore** and **life studying abroad in the US**
 
