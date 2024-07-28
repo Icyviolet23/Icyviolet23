@@ -5,7 +5,7 @@
 
 Hi! I'm Tze Hng, currently a Computer Science undergraduate @ Carnegie Mellon University and I interned at Amazon as well as Citadel Securities! I am passionate about technology and quantitative finance and I enjoy building cool applications!
 	
-- 🌱 I’m currently learning **C++, Distributed Systems, React**
+- 🌱 I’m currently learning **Kafka, Graphql, Cloud Computing**
 - 🔭 I’m currently studying as a **Junior @ CMU**
 - 💬 Ask me about **looking for food in Singapore** and **life studying abroad in the US**
 
